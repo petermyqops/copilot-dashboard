@@ -1,0 +1,523 @@
+[
+  {
+    "day": "2024-07-08",
+    "total_suggestions_count": 25,
+    "total_acceptances_count": 6,
+    "total_lines_suggested": 115,
+    "total_lines_accepted": 12,
+    "total_active_users": 2,
+    "total_chat_acceptances": 3,
+    "total_chat_turns": 3,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "java",
+        "editor": "jetbrains",
+        "suggestions_count": 1,
+        "acceptances_count": 0,
+        "lines_suggested": 6,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 24,
+        "acceptances_count": 6,
+        "lines_suggested": 109,
+        "lines_accepted": 12,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-09",
+    "total_suggestions_count": 31,
+    "total_acceptances_count": 4,
+    "total_lines_suggested": 99,
+    "total_lines_accepted": 7,
+    "total_active_users": 2,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 0,
+    "total_active_chat_users": 0,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 31,
+        "acceptances_count": 4,
+        "lines_suggested": 99,
+        "lines_accepted": 7,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-10",
+    "total_suggestions_count": 136,
+    "total_acceptances_count": 24,
+    "total_lines_suggested": 666,
+    "total_lines_accepted": 85,
+    "total_active_users": 2,
+    "total_chat_acceptances": 3,
+    "total_chat_turns": 10,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 136,
+        "acceptances_count": 24,
+        "lines_suggested": 666,
+        "lines_accepted": 85,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-11",
+    "total_suggestions_count": 105,
+    "total_acceptances_count": 15,
+    "total_lines_suggested": 389,
+    "total_lines_accepted": 71,
+    "total_active_users": 3,
+    "total_chat_acceptances": 6,
+    "total_chat_turns": 38,
+    "total_active_chat_users": 2,
+    "breakdown": [
+      {
+        "language": "unknown",
+        "editor": "vscode",
+        "suggestions_count": 1,
+        "acceptances_count": 0,
+        "lines_suggested": 1,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "javascript",
+        "editor": "vscode",
+        "suggestions_count": 11,
+        "acceptances_count": 3,
+        "lines_suggested": 25,
+        "lines_accepted": 6,
+        "active_users": 2
+      },
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 93,
+        "acceptances_count": 12,
+        "lines_suggested": 363,
+        "lines_accepted": 65,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-12",
+    "total_suggestions_count": 39,
+    "total_acceptances_count": 5,
+    "total_lines_suggested": 76,
+    "total_lines_accepted": 7,
+    "total_active_users": 2,
+    "total_chat_acceptances": 2,
+    "total_chat_turns": 10,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 39,
+        "acceptances_count": 5,
+        "lines_suggested": 76,
+        "lines_accepted": 7,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-15",
+    "total_suggestions_count": 183,
+    "total_acceptances_count": 35,
+    "total_lines_suggested": 821,
+    "total_lines_accepted": 106,
+    "total_active_users": 2,
+    "total_chat_acceptances": 3,
+    "total_chat_turns": 11,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "java",
+        "editor": "jetbrains",
+        "suggestions_count": 31,
+        "acceptances_count": 3,
+        "lines_suggested": 180,
+        "lines_accepted": 9,
+        "active_users": 2
+      },
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 152,
+        "acceptances_count": 32,
+        "lines_suggested": 641,
+        "lines_accepted": 97,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-16",
+    "total_suggestions_count": 3,
+    "total_acceptances_count": 1,
+    "total_lines_suggested": 17,
+    "total_lines_accepted": 1,
+    "total_active_users": 2,
+    "total_chat_acceptances": 3,
+    "total_chat_turns": 4,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 3,
+        "acceptances_count": 1,
+        "lines_suggested": 17,
+        "lines_accepted": 1,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-17",
+    "total_suggestions_count": 8,
+    "total_acceptances_count": 1,
+    "total_lines_suggested": 10,
+    "total_lines_accepted": 1,
+    "total_active_users": 2,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 2,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 8,
+        "acceptances_count": 1,
+        "lines_suggested": 10,
+        "lines_accepted": 1,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-18",
+    "total_suggestions_count": 28,
+    "total_acceptances_count": 1,
+    "total_lines_suggested": 65,
+    "total_lines_accepted": 1,
+    "total_active_users": 2,
+    "total_chat_acceptances": 1,
+    "total_chat_turns": 9,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "java",
+        "editor": "jetbrains",
+        "suggestions_count": 16,
+        "acceptances_count": 1,
+        "lines_suggested": 44,
+        "lines_accepted": 1,
+        "active_users": 2
+      },
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 12,
+        "acceptances_count": 0,
+        "lines_suggested": 21,
+        "lines_accepted": 0,
+        "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-07-19",
+    "total_suggestions_count": 57,
+    "total_acceptances_count": 5,
+    "total_lines_suggested": 145,
+    "total_lines_accepted": 7,
+    "total_active_users": 2,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 3,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "java",
+        "editor": "jetbrains",
+        "suggestions_count": 22,
+        "acceptances_count": 1,
+        "lines_suggested": 42,
+        "lines_accepted": 3,
+        "active_users": 2
+      },
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 35,
+        "acceptances_count": 4,
+        "lines_suggested": 103,
+        "lines_accepted": 4,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-22",
+    "total_suggestions_count": 83,
+    "total_acceptances_count": 16,
+    "total_lines_suggested": 303,
+    "total_lines_accepted": 42,
+    "total_active_users": 2,
+    "total_chat_acceptances": 2,
+    "total_chat_turns": 12,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 83,
+        "acceptances_count": 16,
+        "lines_suggested": 303,
+        "lines_accepted": 42,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-23",
+    "total_suggestions_count": 61,
+    "total_acceptances_count": 8,
+    "total_lines_suggested": 227,
+    "total_lines_accepted": 9,
+    "total_active_users": 2,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 2,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 61,
+        "acceptances_count": 8,
+        "lines_suggested": 227,
+        "lines_accepted": 9,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-24",
+    "total_suggestions_count": 155,
+    "total_acceptances_count": 46,
+    "total_lines_suggested": 513,
+    "total_lines_accepted": 113,
+    "total_active_users": 2,
+    "total_chat_acceptances": 7,
+    "total_chat_turns": 21,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "java",
+        "editor": "jetbrains",
+        "suggestions_count": 4,
+        "acceptances_count": 0,
+        "lines_suggested": 7,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 151,
+        "acceptances_count": 46,
+        "lines_suggested": 506,
+        "lines_accepted": 113,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-25",
+    "total_suggestions_count": 14,
+    "total_acceptances_count": 3,
+    "total_lines_suggested": 30,
+    "total_lines_accepted": 4,
+    "total_active_users": 2,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 0,
+    "total_active_chat_users": 0,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 14,
+        "acceptances_count": 3,
+        "lines_suggested": 30,
+        "lines_accepted": 4,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-26",
+    "total_suggestions_count": 24,
+    "total_acceptances_count": 7,
+    "total_lines_suggested": 38,
+    "total_lines_accepted": 9,
+    "total_active_users": 2,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 0,
+    "total_active_chat_users": 0,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 24,
+        "acceptances_count": 7,
+        "lines_suggested": 38,
+        "lines_accepted": 9,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-29",
+    "total_suggestions_count": 329,
+    "total_acceptances_count": 61,
+    "total_lines_suggested": 1741,
+    "total_lines_accepted": 227,
+    "total_active_users": 2,
+    "total_chat_acceptances": 4,
+    "total_chat_turns": 20,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 329,
+        "acceptances_count": 61,
+        "lines_suggested": 1741,
+        "lines_accepted": 227,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-30",
+    "total_suggestions_count": 257,
+    "total_acceptances_count": 62,
+    "total_lines_suggested": 904,
+    "total_lines_accepted": 170,
+    "total_active_users": 2,
+    "total_chat_acceptances": 3,
+    "total_chat_turns": 8,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 257,
+        "acceptances_count": 62,
+        "lines_suggested": 904,
+        "lines_accepted": 170,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-31",
+    "total_suggestions_count": 241,
+    "total_acceptances_count": 53,
+    "total_lines_suggested": 582,
+    "total_lines_accepted": 143,
+    "total_active_users": 2,
+    "total_chat_acceptances": 6,
+    "total_chat_turns": 10,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 240,
+        "acceptances_count": 53,
+        "lines_suggested": 577,
+        "lines_accepted": 143,
+        "active_users": 2
+      },
+      {
+        "language": "xml",
+        "editor": "jetbrains",
+        "suggestions_count": 1,
+        "acceptances_count": 0,
+        "lines_suggested": 5,
+        "lines_accepted": 0,
+        "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-08-01",
+    "total_suggestions_count": 93,
+    "total_acceptances_count": 23,
+    "total_lines_suggested": 330,
+    "total_lines_accepted": 52,
+    "total_active_users": 2,
+    "total_chat_acceptances": 2,
+    "total_chat_turns": 3,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 90,
+        "acceptances_count": 23,
+        "lines_suggested": 324,
+        "lines_accepted": 52,
+        "active_users": 2
+      },
+      {
+        "language": "markdown",
+        "editor": "jetbrains",
+        "suggestions_count": 3,
+        "acceptances_count": 0,
+        "lines_suggested": 6,
+        "lines_accepted": 0,
+        "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-08-02",
+    "total_suggestions_count": 129,
+    "total_acceptances_count": 27,
+    "total_lines_suggested": 674,
+    "total_lines_accepted": 64,
+    "total_active_users": 2,
+    "total_chat_acceptances": 3,
+    "total_chat_turns": 13,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 129,
+        "acceptances_count": 27,
+        "lines_suggested": 674,
+        "lines_accepted": 64,
+        "active_users": 2
+      }
+    ]
+  }
+]
