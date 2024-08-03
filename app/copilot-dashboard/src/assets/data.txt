@@ -1,2 +1,2 @@
-copilot_metrics_chamberlainGrp.json
-copilot_seats_chamberlainGrp.json
+copilot_metrics_ChamberlainGroupFirmware.json
+copilot_seats_ChamberlainGroupFirmware.json
