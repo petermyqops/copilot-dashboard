@@ -2047,5 +2047,90 @@
         "active_users": 4
       }
     ]
+  },
+  {
+    "day": "2024-08-08",
+    "total_suggestions_count": 838,
+    "total_acceptances_count": 222,
+    "total_lines_suggested": 2241,
+    "total_lines_accepted": 264,
+    "total_active_users": 20,
+    "total_chat_acceptances": 30,
+    "total_chat_turns": 209,
+    "total_active_chat_users": 14,
+    "breakdown": [
+      {
+        "language": "unknown",
+        "editor": "vscode",
+        "suggestions_count": 21,
+        "acceptances_count": 3,
+        "lines_suggested": 25,
+        "lines_accepted": 3,
+        "active_users": 3
+      },
+      {
+        "language": "shell",
+        "editor": "vscode",
+        "suggestions_count": 14,
+        "acceptances_count": 4,
+        "lines_suggested": 18,
+        "lines_accepted": 4,
+        "active_users": 2
+      },
+      {
+        "language": "javascript",
+        "editor": "vscode",
+        "suggestions_count": 6,
+        "acceptances_count": 5,
+        "lines_suggested": 6,
+        "lines_accepted": 2,
+        "active_users": 2
+      },
+      {
+        "language": "c++",
+        "editor": "vscode",
+        "suggestions_count": 746,
+        "acceptances_count": 198,
+        "lines_suggested": 2087,
+        "lines_accepted": 246,
+        "active_users": 16
+      },
+      {
+        "language": "python",
+        "editor": "vscode",
+        "suggestions_count": 19,
+        "acceptances_count": 6,
+        "lines_suggested": 22,
+        "lines_accepted": 1,
+        "active_users": 2
+      },
+      {
+        "language": "dockerfile",
+        "editor": "vscode",
+        "suggestions_count": 1,
+        "acceptances_count": 0,
+        "lines_suggested": 1,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "yaml",
+        "editor": "vscode",
+        "suggestions_count": 30,
+        "acceptances_count": 5,
+        "lines_suggested": 79,
+        "lines_accepted": 5,
+        "active_users": 2
+      },
+      {
+        "language": "kotlin",
+        "editor": "jetbrains",
+        "suggestions_count": 1,
+        "acceptances_count": 1,
+        "lines_suggested": 3,
+        "lines_accepted": 3,
+        "active_users": 2
+      }
+    ]
   }
 ]
